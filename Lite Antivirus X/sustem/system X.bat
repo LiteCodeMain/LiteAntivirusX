@@ -1,9 +1,9 @@
 echo off
 color a
-title Batch Antivirus
+title Antivirus X
 echo =============== 
 echo [Batch-Master]
-echo If There`s no message, You are protected.
+echo If There`s no message, You are save!
 
 
 
@@ -29,11 +29,11 @@ if / i %% z equ% a% .bat (
 
 cls
 
-echo Virus Detected !!
+echo virus detected and delete!
 
 del% a% .bat
 
-echo% a% .bat was deleted ....
+echo% a% .bat delete!
 
 pause> nul
 
@@ -46,7 +46,13 @@ pause> nul
 )
 
 pause> nul
-msg * LC web protect: you are protected!
+msg * LC web protection: you are protected!
+
+
+
+
+
+
 
 
 
